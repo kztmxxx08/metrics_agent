@@ -1,0 +1,5 @@
+paho-mqtt==2.1.0
+psutil==6.0.0
+pytest==8.3.3
+python-dotenv==1.0.1
+PyYAML==6.0.2

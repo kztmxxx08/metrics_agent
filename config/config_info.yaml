@@ -1,0 +1,3 @@
+metrics:
+  metrics_interval: 4
+  cpu_interval: 1
